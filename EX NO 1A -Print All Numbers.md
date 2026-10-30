@@ -20,8 +20,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Reverse a String
-Developed by: Amruthavarshini Gopal
-Register Number: 212223230013 
+Developed by: S V SHADHANASHREE
+Register Number: 212223230202
 */
 import java.util.*;
 public class PrintNum{
